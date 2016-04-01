@@ -1,0 +1,9 @@
+{
+  "name": "pantheon-systems/silly-funny-art",
+  "description": "A silly plugin for Terminus",
+  "homepage": "https://github.com/pantheon-systems/cli-plugin-example",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+}
