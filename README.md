@@ -1,6 +1,6 @@
 # Silly Terminus Plugin
 
-A silly Terminus Plugin to waste your time with ASCII Art.
+A silly Terminus Plugin to waste your time with random ASCII Art.
 
 ## Examples
 * `terminus sillyart`
